@@ -1,0 +1,801 @@
+﻿mid,title,year,grade
+1,A Face in the Crowd,1957,9
+2,A Perfect Couple,1979,6
+3,A Touch of Evil,1958,9
+4,Across the Universe,2007,6
+5,Amadeus,1983,9
+6,An American Tail: Fievel Goes West,1991,10
+7,Animal House,1978,6
+8,Apollo 13,1995,7
+9,Atlantis,2001,5
+10,Back to the Future,1985,7
+11,Benny and Joon,1993,9
+12,Big Bad Love,2001,10
+13,Big Fish,2003,10
+14,Blame it on Fidel,2006,7
+15,Brain Donors,1992,8
+16,Bolt,2008,4
+17,Bottle Shock,2008,5
+18,Canadian Bacon,1995,4
+19,Cannery Row,1982,10
+20,Cars,2006,8
+21,Cast Away,2000,7
+22,Catch Me if you Can,2002,8
+23,Cautiva,1986,10
+24,Chain of Fools,2000,8
+25,Chicago,2002,7
+26,Chocolat,2000,8
+27,Cocoon,1985,7
+28,Con Air,1997,7
+29,Dan in Real Life,2007,8
+30,Danny Deckchair,2003,6
+31,Dante's Peak,1997,7
+32,Death at a Funeral,2007,6
+33,Don't Drink the Water,1994,7
+34,Dressed to Kill,1980,5
+35,Duel,1971,7
+36,Duplicity,2009,3
+37,Entrapment,1999,2
+38,Evan Almighty,2007,3
+39,Everyone Says I Love You,1996,4
+40,Everything is Illuminated,2005,9
+41,Fargo,1996,10
+42,Fletch,1985,6
+43,For Roseanna,1997,6
+44,For the Love of the Game,1999,3
+45,Frost/Nixon,2008,9
+46,Funny Farm,1988,6
+47,Goal! The Dram Begins,2006,6
+48,Grand Hotel,1932,10
+49,Grosse Pointe Blank,1997,7
+50,High Anxiety,1977,6
+51,Holes,2003,10
+52,Home Alone,1990,7
+53,Horton Hears a Who,2008,9
+54,Hotel Rwanda,2004,7
+55,How About You …,2007,7
+56,I Want Candy,2007,1
+57,I'll Be There,2003,6
+58,Interstate 60: Episodes of the Road,2002,7
+59,Iron Man,2008,4
+60,Jesus of Montreal,1989,7
+61,Julian Po,1997,8
+62,Kindergarten Cop,1990,6
+63,Knowing,2008,4
+64,Kung Fu Panda,2008,7
+65,Land of the Lost,2009,3
+66,Lars and the Real Girl,2007,6
+67,Last Action Hero,1993,5
+68,Lifeboat,1944,9
+69,Living in Oblivion,1995,7
+70,Local Hero,1983,8
+71,Lord of the Rings: the Fellowship of the Ring,2001,4
+72,M*A*S*H,1970,8
+73,The Mating Habits of the Earthbound Human,1999,7
+74,Meet Joe Black,1998,5
+75,Miracle,2004,8
+76,Miracle at St. Anna,2008,7
+77,Monster House,2006,5
+78,Monsters Inc.,2001,8
+79,Mother Night,1996,8
+80,Munich,2005,10
+81,"Mystery, Alaska",1999,8
+82,Noise,2007,6
+83,North by Northwest,1959,9
+84,Nurse Betty,2000,6
+85,2001: A Space Odyssey,1968,8
+86,2010: The Year We Make Contact,1984,7
+87,Mystic Pizza,1988,7
+88,"O Brother, Where Are Thou",2000,10
+89,Odd Man Out,1947,8
+90,Open City,2008,8
+91,Penelope,1996,6
+92,Phoebe in Wonderland,2008,7
+93,The Pink Panther,2006,6
+94,The Pink Panther 2,2009,4
+95,Raising Arizona,1987,8
+96,Radio,2003,5
+97,Rat Race,2001,7
+98,Ratatouille,2007,8
+99,Red Dawn,1984,5
+100,Renaissance Man,1994,8
+101,Romance & Cigarettes,2005,1
+102,Rope,1948,10
+103,The Running Man,1987,6
+104,Saving Grace,2000,7
+105,Seducing Doctor Lewis,2003,8
+106,Sex and Breakfast,2007,1
+107,Sherrybaby,2006,7
+108,Shining Through,1992,6
+109,Star Trek,2009,8
+110,Sweet and Lowdown,1999,8
+111,Sweet Home Alabama,2002,3
+112,Sweet Land,2005,8
+113,Swing Vote,2008,5
+114,The Terminator,1984,6
+115,Terminator 2: Judgment Day,1991,6
+116,The 39 Steps,1935,8
+117,The Air I Breathe,2007,6
+118,The Aviator,2004,5
+119,The Big Lebowski,1998,6
+120,The Brothers Grimm,2005,6
+121,The Cats of Mirikitani,2006,8
+122,The Dark Knight,2008,6
+123,The Day After Tomorrow,2004,1
+124,The Dish,2000,6
+125,The Diving Bell and the Butterfly,2007,9
+126,The Edge,1997,7
+127,The Freshman,1990,6
+128,The Fugitive,1993,10
+129,The General's Daughter,1999,9
+130,The Great Debaters,2007,10
+131,The Great Escape,1963,8
+132,The Green Mile,1999,7
+133,The Hudsucker Proxie,1994,8
+134,The Illusionist,2006,10
+135,The Interpreter,2005,5
+136,The Karate Kid,1984,7
+137,The King of Hearts,1966,7
+138,The Last Temptation of Christ,1998,7
+139,The Last Word,2017,6
+140,The Lives of Others,2006,9
+141,The Mummy,1999,7
+142,The Nightmare Before Christmas,1993,8
+143,The Patriot,2000,8
+144,The Prestige,2006,6
+145,The Princess Bride,1987,8
+146,The Right Stuff,1983,7
+147,The Ringer,2005,6
+148,The Rock,1996,8
+149,"The Russians are Coming, the Russians are Coming",1966,6
+150,The Shape of Things,2003,6
+151,The Station Agent,2003,8
+152,The Third Man,1949,10
+153,The Wishing Tree,2012,5
+154,The Villain,  ,5
+155,The Visitor,2007,6
+156,Then She Found Me,2007,3
+157,Throw Momma From the Train,1987,6
+158,Titan A.E.,2000,7
+159,Tremors,1993,1
+160,Tropic Thunder,2008,4
+161,Twister,1996,6
+162,Unbreakable,2000,8
+163,Victor/Victoria,1992,9
+164,Lord of the Rings: The Twin Towers,2002,5
+165,Visioneers,2008,7
+166,Volver,2006,9
+167,War Games,1983,8
+168,What Women Want,2006,6
+169,YPF,2007,4
+170,Zathura: A Space Adventure,2005,7
+171,Zero Effect,1988,6
+172,Twenty Bucks,1993,7
+173,My Cousin Vinny,1992,7
+174,Tomorrow Never Dies,1997,7
+175,Licence to Kill,1989,6
+176,The World is Not Enough,1999,7
+177,Die Another Day,2002,7
+178,Casino Royal,1967,4
+179,Careless,2007,7
+180,Galaxy Quest,1999,7
+181,The Man Who Wasn't There,2001,8
+182,The Impostors,1998,8
+183,Men In Black,1997,7
+184,Harry Potter and the Sorcerer's Stone,2001,5
+185,Harry Potter and the Chamber of Secrets,2002,3
+186,Harry Potter and the Prisoner of Azkaban,2004,3
+187,Harry Potter and the Goblet of Fire,2005,3
+188,The Bourne Identity,2002,7
+189,Ghost World,2001,7
+190,Lost in Translation,2003,6
+191,The Saddest Music in the World,2003,8
+192,Phenomenon,1996,7
+193,Young Frankenstein,1974,10
+194,State and Main,2000,5
+195,The Majestic,2001,8
+196,The Truman Show,1998,9
+197,Into the West,1992,8
+198,Smilla's Sense of Snow,1997,6
+199,Silent Movie,1976,6
+200,Once Upon a Time in the West,1968,10
+201,Sleepy Hollow,1999,7
+202,Blow Dry,2001,7
+203,A Foreign Field,1993,7
+204,Capote,2005,9
+205,They All Laughed,1981,8
+206,The Thomas Crown Affair,1999,7
+207,The Thomas Crown Affair,1968,9
+208,Air Force One,1997,7
+209,What the #$*! Do We Know?!,2004,1
+210,Lord of the Rings: The Return of the King,2001,4
+211,King Kong,2005,6
+212,King Kong,1933,8
+213,First Blood,1982,3
+214,Alien,1986,6
+215,The Abyss,1989,5
+216,I Love You to Death,1990,7
+217,True Lies,1994,5
+218,Titanic,1997,3
+219,Batman,1989,5
+220,Beetle Juice,1988,8
+221,Rocky,1975,7
+222,Ed Wood,1994,9
+223,Mars Attacks!,1996,6
+224,Dinosaur,2000,4
+225,Ice Age,2002,7
+226,The Polar Express,2004,5
+227,Robots,2005,3
+228,Chicken Little,2005,3
+229,9,2009,5
+230,National Treasure,2004,7
+231,Guarding Tess,1994,4
+232,Being There,1979,9
+233,The Man from Snowy River,1982,8
+234,Legends of the Fall,1994,7
+235,Harry and the Hendersons,1987,6
+236,Braveheart,1991,6
+237,Master and Commander,2003,3
+238,The Mask of Zorro,1998,6
+239,Conan the Barbarian,1982,4
+240,The Secret of Roan Inish,1994,8
+241,Spaceballs,1987,5
+242,Yentl,1983,3
+243,Who Framed Roger Rabbit,1988,6
+244,The Greatest Lover in the World,1977,4
+245,Addam's Family Values,1993,7
+246,Manhattan Murder Mystery,1993,7
+247,Mad Money,2008,4
+248,Ben-Hur,1959,6
+249,Around the World in 80 Days,2004,5
+250,Around the World in 80 Days,1950,5
+251,"It's a Mad, Mad, Mad, Mad World",1963,5
+252,Goldfinger,1964,4
+253,Joyeux Noel,2005,10
+254,Tarzan in Manhattan,1989,2
+255,Mrs. Henderson Presents,1995,9
+256,Hot Shots!,1991,4
+257,Hot Shots! Part Deux,1993,4
+258,Might Joe Young,1998,3
+259,Jumanji,1995,6
+260,Jurassic Park,1993,7
+261,Dr. T and the Women,2000,7
+262,Monty Python and the Holy Grail,1975,6
+263,Life of Brian,1979,5
+264,A Fish Called Wanda,1988,8
+265,Rebecca,1940,10
+266,Rear Window,1954,10
+267,Suspicion,1941,8
+268,Stuart Little,1999,5
+269,Mouse Hunt,1997,4
+270,Antz,1998,6
+271,Broken Flowers,2005,1
+272,Rob Roy,1995,3
+273,Tulpan,2008,8
+274,Broken Arrow,1996,4
+275,Hook,1991,3
+276,Godzilla,1998,5
+277,The Sting,1973,10
+278,Revenge of the Nerds,1984,6
+279,Superman: The Movie,1978,4
+280,Chicken Run,2000,5
+281,The Adventures of Baron Munchausen,1988,5
+282,Harold and Maude,1971,10
+283,Wild Hogs,2007,5
+284,Operation Dumbo Drop,1995,5
+285,Every Which Way But Loose,1978,4
+286,Million Dollar Baby,2004,10
+287,Jaws,1975,6
+288,The American President,1995,6
+289,Bulworth,1998,9
+290,Heaven Can Wait,1978,6
+291,The Flintstones,1994,6
+292,Deathtrap,1982,8
+293,Spellbound,1945,8
+294,Casablanca,1942,7
+295,The African Queen,1951,7
+296,The Invisible Man,1933,6
+297,Notorious,1946,6
+298,Bringing Up Baby,1938,7
+299,Guess Who's Coming to Dinner,1967,9
+300,Adam's Rib,1949,5
+301,The Slender Thread,1965,9
+302,The Muppet Movie,1979,5
+303,The Dirty Dozen,1967,7
+304,Elf,2003,4
+305,Failure to Launch,2006,5
+306,The Hitchhiker's Guide to the Galaxy,2005,6
+307,Yes Man,2008,6
+308,The Shawshank Redemption,1994,9
+309,Bull Durham,1988,6
+310,The Rocky Horror Picture Show,1975,8
+311,The Hunt for Red October,1990,8
+312,Americathon,1979,3
+313,Doctor Detroit,1983,3
+314,The Blues Brothers,1980,4
+315,Dragnet,1987,4
+316,Christmas with the Kranks,2004,5
+317,Chaplin,1992,8
+318,A Little Romance,1979,4
+319,Glengarry Glen Ross,1992,2
+320,Dick Tracy,1990,4
+321,Author! Author!,1982,7
+322,The Odd Couple,1968,7
+323,The Apartment,1960,5
+324,Under the Tuscan Sun,2003,7
+325,Driving Miss Daisy,1989,9
+326,The Man with One Red Shoe,1985,6
+327,Three Men and a Baby,1987,5
+328,Mr. Baseball,1992,6
+329,History of the World: Part I,1981,3
+330,Citizen Kane,1941,10
+331,Bird on a Wire,1990,6
+332,Overboard,1987,5
+333,Protocol,1984,4
+334,Foul Play,1978,7
+335,HouseSitter,1992,5
+336,Cheaper by the Dozen,2003,4
+337,Parenthood,1989,4
+338,Dirty Rotten Scoundrels,1988,7
+339,"Planes, Trains and Automobiles",1987,3
+340,Roxanne,1987,5
+341,Little Shop of Horrors,1986,7
+342,Three Amigos!,1986,3
+343,Dead Men Don't Wear Plaid,1982,5
+344,The Jerk,1979,5
+345,Broadway Danny Rose,1984,7
+346,Husbands and Wives,1992,2
+347,Shadows and Fog,1991,8
+348,Radio Days,1987,6
+349,Hannah and Her Sisters,1986,5
+350,Zelig,1983,8
+351,Love and Death,1985,7
+352,Sleeper,1973,6
+353,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,1972,7
+354,La Vie En Rose,2007,10
+355,Nanny McPhee,2005,6
+356,The Pirates of Penzance,1983,7
+357,FM,1978,6
+358,Space Cowboys,2000,5
+359,My Fellow Americans,1996,4
+360,Support Your Local Sheriff!,1969,6
+361,Chariots of Fire,1981,7
+362,Risky Business,1983,7
+363,Firestarter,1984,5
+364,Patton,1970,8
+365,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,7
+366,The Sensation of Sight,2006,10
+367,Rhinoceros,1974,7
+368,The Producers,1968,6
+369,Airport 1975,1974,3
+370,Family Plot,1976,6
+371,Small Soldiers,1998,4
+372,Naked Gun 33 1/3: The Final Insult,1994,6
+373,The Naked Gun 2½: The Smell of Fear,1991,6
+374,The Naked Gun: From the Files of Police Squad!,1988,6
+375,Airport '77,1977,4
+376,Earthquake,1974,3
+377,Airport,1970,8
+378,The Natural,1984,6
+379,Topaz,1969,7
+380,Torn Curtain,1966,7
+381,Marnie,1964,4
+382,The Birds,1963,2
+383,Psycho,1960,6
+384,Vertigo,1958,8
+385,The Man Who Knew Too Much,1956,6
+386,The Trouble with Harry,1955,8
+387,To Catch a Thief,1955,7
+388,Dial M for Murder,1954,7
+389,Strangers on a Train,1951,7
+390,Shadow of a Doubt,1943,5
+391,Saboteur,1942,6
+392,The Lady Vanishes,1938,6
+393,The Man Who Knew Too Much,1934,8
+394,The Addams Family,1991,7
+395,Romancing the Stone,1984,7
+396,Raiders of the Lost Ark,1981,8
+397,"Oh, God!",1977,4
+398,Passion in the Desert,1997,8
+399,Iceman,1984,6
+400,Rabbit-Proof Fence,2002,9
+401,Lean on Me,1998,7
+402,Six Days and Seven Nights,1998,5
+403,Planet of the Apes,1968,4
+404,Spies Like Us,1985,4
+405,The Matrix,1999,6
+406,Out of Africa,1985,5
+407,Enemy of the State,1998,4
+408,The Fisher King,1991,9
+409,Holiday Inn,1942,5
+410,Backdraft,1991,7
+411,Die Hard,1988,7
+412,The Pope of Greenwich Village,1984,6
+413,The Deep,1977,5
+414,The Animal,2001,3
+415,Brazil,1985,5
+416,The Boys from Brazil,1977,5
+417,Shrek,2001,8
+418,Encino Man,1992,3
+419,Falling Down,1993,4
+420,Ghost Busters,1984,6
+421,Siam Sunset,1999,7
+422,Dead Poets Society,1989,4
+423,Dances with Wolves,1990,7
+424,Field of Dreams,1989,7
+425,The Missionary,1992,3
+426,The Apostle,1997,9
+427,Halloween,1978,5
+428,Inkheart,2008,7
+429,Journey to the Center of the Earth,2006,4
+430,Looney Tunes: Back in Action,2003,4
+431,Woman of the Year,1942,9
+432,Houseboat,1958,4
+433,Lemony Snicket's Series of Unfortunate Events,2004,5
+434,The Price of Milk,2000,7
+435,Marilyn Hotchkiss' Ballroom Dancing & Charm School,2005,8
+436,The Full Monty,1997,8
+437,The Great Buck Howard,2008,7
+438,The Last Starfighter,1984,5
+439,The Iron Giant,1999,4
+440,Tank,1984,3
+441,The Music Man,1962,4
+442,Osmosis Jones,1999,3
+443,E. T. The Extraterrestrial,1982,7
+444,The King of Comedy,1982,6
+445,Rabbit Test,1978,2
+446,Cold Turkey,1971,7
+447,Jabberwocky,1977,4
+448,Moulin Rouge!,2001,8
+449,From Noon Till Three,1976,8
+450,Charlie Wilson's War,2007,6
+451,Finding Nemo,2003,8
+452,Camilla,1994,3
+453,Kind Hearts and Coronets,1949,4
+454,Bruno,2000,6
+455,Thirteen Days,2000,8
+456,Intolerable Cruelty,2003,5
+457,The Ice Pirates,1984,4
+458,The Jungle Book,1967,8
+459,Kelly's Heroes,1970,7
+460,Bullets over Broadway,1994,7
+461,The Girl in the Cafe,2005,6
+462,No Country for Old Men,2007,4
+463,Finding Neverland,2004,6
+464,Charlie and the Chocolate Factory,2005,4
+465,August Rush,2007,3
+466,Waking Ned Devine,1998,7
+467,Greenfingers,2000,6
+468,Gorky Park,1983,5
+469,The Front,1976,7
+470,Monte Walsh,2003,1
+471,The In-Laws,1979,8
+472,The Dream Team,1989,4
+473,Smoke Signals,1998,9
+474,Quinceañera,2006,7
+475,"All This, and Heaven Too",1940,3
+476,Unmistaken Child,2008,8
+477,Hop,2002,8
+478,Things Change,1988,6
+479,Mi Mejor Enemigo,2008,8
+480,Dead Like Me: Life After Death,2009,5
+481,Sunshine Cleaning,2008,7
+482,My Life as a Dog,1985,8
+483,UHF,1989,5
+484,King of California,2007,6
+485,Windtalkers,2002,4
+486,Pirates of the Caribbean: The Curse of the Black Pearl,2003,6
+487,The Holiday,2006,6
+488,The Taking of Pelham One Two Three,1974,8
+489,Big Night,1996,3
+490,Strangers in Good Company,1990,8
+491,Under the Bombs,2006,10
+492,Widows' Peak,1994,5
+493,Laila's Birthday,2008,6
+494,Fletch,1985,5
+495,To Be or Not to Be,1983,6
+496,The Big Bus,1976,3
+497,1941,1979,6
+498,Gloomy Sunday – Ein Leid von Liebe und Tod,1999,9
+499,The Ramen Girl,2008,8
+500,Black Book,2006,9
+501,The Lives of Others,2006,10
+502,M,1931,10
+503,Body of Lies,2008,1
+504,Delicatessen,1991,9
+505,Mother of Mine,2005,9
+506,Mamma Mia!,2008,1
+507,Up,2009,6
+508,Bella,2006,8
+509,The Village Barbershop,2008,7
+510,The King of Masks,1996,8
+511,Dr. Horrible's Sing-Along Blog,2008,7
+512,Waitress,2007,7
+513,Serenity,2005,6
+514,Gran Torino,2008,9
+515,Big Trouble,2002,6
+516,The Tick,2001,7
+517,The Dish,2000,6
+518,Thief,1981,5
+519,Dudley Do-Right,1999,3
+520,Mrs. Doubtfire,1993,4
+521,Last Action Hero,1993,5
+522,The Great Outdoors,1988,5
+523,Broadcast News,1987,6
+524,The Electric Horseman,1979,7
+525,The End,1978,3
+526,The Drowning Pool,1975,6
+527,Working Girl,1988,3
+528,Smokey and the Bandit,1977,6
+529,Wings of Desire,1987,8
+530,As it is in Heaven,2004,7
+531,I'll Believe You,2007,6
+532,Diamonds,1999,6
+533,Sleuth,1972,8
+534,The Notebook,2004,6
+535,12 Angry Men,1957,10
+536,12 Angry Men,1997,7
+537,The Replacements,2000,5
+538,Whatever Works,2009,6
+539,The Untouchables,1987,6
+540,Donnie Brasco,1997,7
+541,Paycheck,2003,2
+542,When Harry Met Sally,1989,4
+543,White Sands,1992,4
+544,Hollywood Homicide,2003,3
+545,About Last Night,1986,2
+546,Kate and Leopold,2001,5
+547,The Time Machine,2002,4
+548,You've Got Mail,1998,4
+549,French Kiss,1996,5
+550,Sleepless in Seattle,1993,6
+551,Caddyshack,1981,4
+552,The Legend of 1900,1998,9
+553,Mystery Train,1988,3
+554,A Prairie Home Companion,2006,7
+555,Solaris,2002,4
+556,Sideways,2004,7
+557,Cassandra's Dream,2007,4
+558,The Savages,2007,5
+559,To Have and Have Not,1944,7
+560,To Be or Not to Be,1942,5
+561,Key Largo,1948,10
+562,The Big Sleep,1946,6
+563,The Maltese Falcon,1941,5
+564,The Stranger,1946,9
+565,It's a Wonderful Life,1946,7
+566,"The Good, the Bad, and the Ugly",1966,5
+567,The Last King of Scotland,2006,8
+568,The Great Match,2006,7
+569,Following,1998,7
+570,Midnight Clear,2006,4
+571,Edward Scissorhands,1990,4
+572,Stripes,1981,6
+573,Get Smart,2008,6
+574,After the Wedding,2006,8
+575,Kontroll,2003,6
+576,Paradise Now,2005,5
+577,Jump Tomorrow,2001,6
+578,The Darjeeling Limited,2007,4
+579,Mystic River,2003,4
+580,The Spitfire Grill,1996,8
+581,Remember the Titans,2005,7
+582,Bullitt,1968,7
+583,Ronin,1998,9
+584,12,2007,8
+585,Summer Hours,2008,1
+586,S.O.B.,1981,6
+587,The Towering Inferno,1974,5
+588,The Pink Panther,1963,7
+589,Fitzcarraldo,1982,6
+590,Class,1983,3
+591,The Soloist,2009,8
+592,Cloudy with a Chance of Meatballs,2009,8
+593,The Man from Elysian Fields,2001,6
+594,The Powwow Highway,1989,7
+595,Ray,2004,8
+596,Dr. Doolittle,1998,6
+597,Deep Impact,1998,3
+598,Michael,1996,8
+599,Speed,1994,3
+600,Volcano,1997,2
+601,Fun with Dick and Jane,2005,4
+602,A League of Their Own,1992,5
+603,The Black Hole,1979,3
+604,Midway,1976,6
+605,Avatar,2009,8
+606,The Answer Man,2009,5
+607,Hang 'Em High,1968,4
+608,Cool Hand Luke,1967,7
+609,O.C. And Stiggs,1985,3
+610,Murder by Numbers,2002,4
+611,The Prince of Egypt,1998,4
+612,Major League,1989,5
+613,Top Secret!,1984,5
+614,Hidalgo,2004,3
+615,Batman Forever,1995,3
+616,Willow,1988,8
+617,Star Wars: Return of the Jedi,1983,4
+618,Top Gun,1986,3
+619,Sweet Liberty,1986,4
+620,Into the Night,1985,4
+621,While You Were Sleeping,1995,6
+622,Good Night and Good Luck,2005,8
+623,Escanaba in da Moonlight,2001,5
+624,My Favorite Martian,1999,3
+625,The Hudsucker Proxy,1994,7
+626,Renaissance Man,1994,7
+627,Memento,2000,9
+628,The Goonies,1985,6
+629,The Count of Monte Cristo,2002,3
+630,Fearless,1994,8
+631,You Kill Me,2007,6
+632,Passage to Marseille,1944,3
+633,Without a Clue,1988,5
+634,Dave,1993,3
+635,Gandhi,1982,7
+636,The Omen,1976,5
+637,The Pink Panther Strikes Again,1976,5
+638,The Outlaw Josey Wales,1976,5
+639,Cherry Blossoms,2008,7
+640,The Stoning of Soraya M.,2008,8
+641,Walking Alone for Thousands of Miles,2005,8
+642,Shoot the Piano Player,1960,2
+643,Confessor (The Good Shepherd),2004,5
+644,Grace is Gone,2007,2
+645,Spaced Invaders,1990,7
+646,Captain Ron,1992,7
+647,The Big Chill,1983,7
+648,Modern Problems,1981,5
+649,Bohemian Girl,1936,8
+650,Flame and Citron,2008,6
+651,Wilbur Wants to Kill Himself,2002,7
+652,Ordet,1955,3
+653,A Town Called Panic,2009,6
+654,Shut Up and Shoot Me,2005,8
+655,Henry Poole Is Here,2008,4
+656,Kolya,1996,10
+657,My Sweet Little Village,1985,10
+658,Mary and Max,2009,8
+659,Doubt,2008,4
+660,Queen of Hearts,1989,5
+661,Matinee,1993,7
+662,What Doesn't Kill You,2008,6
+663,The Big Hit,1998,2
+664,Mallrats,1995,1
+665,Tenure,2009,1
+666,Hoot,2006,3
+667,Muriel's Wedding,1994,7
+668,The Snow Walker,2003,8
+669,The Rookie,2002,6
+670,My Man Godfrey,1936,8
+671,Seven Men From Now,1956,6
+672,American Dreamz,2006,3
+673,The Immaculate Conception of Little Drizzle,2009,9
+674,Paris 36,2008,5
+675,Tuvalu,1999,6
+676,Metroland,1997,1
+677,Look Both Ways,2005,6
+678,Spring Forward,1999,7
+679,The Dinner Game,1998,10
+680,Pieces of April,2003,7
+681,Saint Ralph,2004,6
+682,True Stories,1986,2
+683,The Pope's Toilet,2007,4
+684,The Trip,2010,6
+685,The Italian Job,1969,5
+686,The Matador,2005,4
+687,Idiocracy,2006,5
+688,Least of These,2008,5
+689,Ladies in Lavender,2004,8
+690,Kitchen Stories,2003,5
+691,My First Mister,2001,5
+692,Corked,2009,1
+693,MirrorMask,2005,7
+694,Mountains of the Moon,1990,6
+695,Like Water for Chocolate,1992,3
+696,Off the Map,2003,7
+697,Spider-Man,2002,5
+698,Thank You for Smoking,2005,5
+699,Juno,2007,8
+700,Dick,1999,1
+701,Zift,2008,10
+702,Welcome to Collinwood,2002,3
+703,House of Sand,2005,2
+704,"The Favour, the Watch and the Very Big Fish",1991,6
+705,Keeping Mum,2005,5
+706,Bubba Ho-Tep,2002,6
+707,Welcome to Sarajevo,1997,8
+708,Repo- The Genetic Opera,2008,7
+709,Romeo + Juliet,1996,7
+710,Little Voice,1998,6
+711,The Island,2006,4
+712,Double Indemnity,1944,7
+713,Duck Season,2004,3
+714,Buying the Cow,2002,3
+715,King's Row,1942,3
+716,The Escapist,2008,8
+717,Nosferatu,1929,6
+718,The Harmonists,1997,7
+719,Death at a Funeral,2007,8
+720,Death at a Funeral,2010,3
+721,The Singing Revolution,2006,8
+722,Going by the Book,2007,8
+723,Little Big Soldier,2010,9
+724,Cookie's Fortune,1999,7
+725,Le Chevre,1981,5
+726,Off the Black,2006,4
+727,Trollhunter,2010,7
+728,Point Break,1991,2
+729,Ghost,1990,5
+730,Cashback,2006,8
+731,Rebecca,1997,8
+732,Assassin in Love,2007,7
+733,Mao's Last Dancer,2009,8
+734,M. Hulot's Holiday,1953,3
+735,Going in Style,1979,6
+736,Diamond Men,2000,6
+737,I do: How to Get Married and Stay Single,2006,5
+738,The Terminal,2004,7
+739,Excalibur,1981,5
+740,Starting Out in an Evening,2007,5
+741,Nixon,1995,7
+742,Inception,2010,3
+743,Amistad,1997,7
+744,Brassed Off,1996,6
+745,Priceless,2006,2
+746,Asesino En Serio,2002,5
+747,Days of Glory,2006,8
+748,25 Hill,2011,2
+749,Aurora Borealis,2005,5
+750,Innocent Blood,1992,6
+751,The Triplets of Belleville,2003,7
+752,Something New,2006,6
+753,Cell 211,2009,7
+754,The Three Stooges,2012,5
+755,Owning Mahowney,2003,3
+756,The Best Exotic Marigold Hotel,2011,8
+757,The Wool Cap,2004,6
+758,Dersu Uzala,1975,8
+759,Matchstick Men,2003,5
+760,Mozart and the Whale,2005,4
+761,The King's Speech,2010,9
+762,Searching for the Wrong-Eyed Jesus,2003,7
+763,The Burmese Harp,1956,8
+764,"Synedoche, New York",2008,6
+765,The Untouchables,1987,7
+766,The Passion of Joan of Arc,1928,9
+767,The Desert of Forbidden Art,2010,8
+768,The Third Miracle,1999,7
+769,Peter's Friends,1992,7
+770,The Merry Gentleman,2008,6
+771,Copenhagen,2014,7
+772,Mongolian Ping Pong,2005,6
+773,Brick,2005,7
+774,A Serious Man,2009,7
+775,Stardust,2007,8
+776,Undertaking Betty,2002,7
+777,Safety Not Guaranteed,2012,6
+778,Devils on the Doorstep,2000,8
+779,The Artist,2011,8
+780,Adrift in Tokyo,2007,7
+781,Hard Times,2009,6
+782,Son of Man,2006,7
+783,A Bullet for Joey,1955,6
+784,Timecrimes,2007,7
+785,The Giant Mechanical Man,2012,6
+786,Just Like Home,2007,5
+787,Bigger than the Sky,2005,6
+788,The 39 Steps,1935,7
+789,Heathers,1988,3
+790,When Do We Eat,2005,6
+791,Hank and Mike,2008,3
+792,Sweethearts,1997,6
+793,God Bless America,2011,7
+794,Scrooged,1988,7
+795,The Woman in the Window,1944,8
+796,Arsenic and Old Lace,1944,8
+797,The Magic of Belle Isle,2012,5
+798,The Women on the Sixth Floor,2010,7
+799,Days of Heaven,1978,8
+800,Paulie,1998,5
