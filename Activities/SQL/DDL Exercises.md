@@ -6,7 +6,7 @@ The first two exercises are required, as we will be using those databases tomorr
     - Run the create_tables_mssql.sql script to create the tables
     - Run the load_data_mssql.sql script to load data into the tables
     - Run some basic queries to verify the database was created and loaded
-2. HR Database
+2. Retail Database
     - Files are in /Data/SQL/retail_db/
     - Run the create_db_tables_mssql.sql script to create the tables
     - Run the load_db_data_mssql.sql script to load data into the tables
