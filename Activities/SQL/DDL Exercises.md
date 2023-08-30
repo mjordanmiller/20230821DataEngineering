@@ -19,6 +19,8 @@ The first two exercises are required, as we will be using those databases tomorr
         - Identify the PKs, relationships, and cardinality for each entity
         - Determine any additional columns that should be included for management purposes
             - Hint: Audit changes
+        - Create a .sql script that creates all of the tables including relationships and constraints.
+
 
 ```Python
 class Author:
