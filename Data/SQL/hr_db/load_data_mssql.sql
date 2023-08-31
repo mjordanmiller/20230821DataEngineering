@@ -1,3 +1,5 @@
+USE hr_db;
+
 INSERT INTO regions VALUES 
    ('Europe' 
    );

@@ -5,8 +5,10 @@
 -- Table structure for table departments
 --
 CREATE DATABASE retail_db;
+GO
 
 USE retail_db;
+GO
 
 CREATE TABLE departments (
   department_id INT IDENTITY NOT NULL,
